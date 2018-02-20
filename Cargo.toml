@@ -1,0 +1,6 @@
+[package]
+name = "rust-euler-99"
+version = "0.1.0"
+authors = ["Varun Patro <varun.kumar.patro@gmail.com>"]
+
+[dependencies]
